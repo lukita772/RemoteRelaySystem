@@ -6,7 +6,7 @@
 
 //WIFI data
 const char* ssid = "";
-const char* password = ";
+const char* password = "";
 
 /********************************************
   //ROM MAP
