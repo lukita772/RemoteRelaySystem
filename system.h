@@ -5,8 +5,8 @@
 */
 
 //WIFI data
-const char* ssid = "IOT";
-const char* password = "T3mp@tUr@...";
+const char* ssid = "";
+const char* password = ";
 
 /********************************************
   //ROM MAP
